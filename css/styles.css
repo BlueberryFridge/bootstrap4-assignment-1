@@ -1,0 +1,32 @@
+a { color: rgb(230, 185, 101) }
+
+a:hover {
+    text-decoration: none;
+    color: grey;
+}
+
+.row-header {
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.row-content {
+    padding: 40px 0;
+    border-bottom: 1px ridge;
+}
+
+.jumbotron {
+    margin: 0 auto;
+    padding: 40px 0;
+    background: rgb(230, 185, 101);
+    color: #fefefe;
+    font-size: 90%
+}
+
+.footer {
+    margin: 0 auto;
+    padding: 40px 0;
+    background: rgb(71, 64, 51);
+    color: #efefef;
+}
+
